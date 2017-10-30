@@ -1,13 +1,18 @@
 .header{
 	background-color: #fcdfae;
 	text-align: center;
-	height: 10vh;
+	/*height: 10vh;*/
+  padding: 30px;
+
 
 }
 .ping{
 }
 #ping{
-margin-top: 20px;
+/*margin-top: 20px;*/
+
+
+
 
 }
 
@@ -15,6 +20,7 @@ margin-top: 20px;
 .text{
 	background-color: #a00000;
 	height: 100vh;
+
 }
 .main{
 	background-color: #167a2b;
@@ -27,6 +33,7 @@ margin-top: 20px;
 }
 #text{
 	color: #aa8714;
+    font-size:30px;
 }
 .main2{
 
