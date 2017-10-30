@@ -1,0 +1,40 @@
+.header{
+	background-color: #fcdfae;
+	text-align: center;
+	height: 10vh;
+
+}
+.ping{
+}
+#ping{
+margin-top: 20px;
+
+}
+
+
+.text{
+	background-color: #a00000;
+	height: 100vh;
+}
+.main{
+	background-color: #167a2b;
+	height: 90vh;
+	margin-top: 85px;
+}
+#about{
+	text-align: center;
+	margin-top: 20px;
+}
+#text{
+	color: #aa8714;
+}
+.main2{
+
+	height: 100vh;
+	margin-left: 30px;
+	margin-top: 50px;
+
+}
+body{
+	background-color: #dbd9d4;
+}
