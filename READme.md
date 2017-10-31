@@ -5,7 +5,7 @@
 
 ## Description
 This is an online page that takes the user input numbers checks whethere they are divisible by 3 ,  5 and 15.
-if a number is divisible by 3 it chooses ping . if its divisible by 5 it displays pong . if it is divisible by 15 it outputs ping pong. 
+if a number is divisible by 3 it chooses ping . if its divisible by 5 it displays pong . if it is divisible by 15 it outputs ping pong.
 
 ## Setup/Installation Requirements
 
@@ -13,48 +13,48 @@ if a number is divisible by 3 it chooses ping . if its divisible by 5 it display
 
 
 ## Technologies Used
-1. html 
+1. html
 2. css
 3. javascript.
 
 
-##examples 
-# if you type in 12 these will be the results 
-1.1
-2.2
-3.ping
-4.4
-5.5
-6.pingpong
-7.7
-8.8
-9.ping
-10.10
-11.11
-12.pingpong
+##examples
+# if you type in 12 these will be the results
+1. 1
+2. 2
+3. ping
+4. 4
+5. 5
+6. pingpong
+7. 7
+8. 8
+9. ping
+10. 10
+11. 11
+12. pingpong
 
 ##example 2
 # if you enter 20 the will be the results:
-1.1
-2.2
-3.ping
-4.4
-5.pong
-6.ping
-7.7
-8.8
-9.ping
-10.pong
-11.11
-12.ping
-13.13
-14.14
-15.pingpong
-16.16
-17.17
-18.ping
-19.19
-20.pong
+1. 1
+2. 2
+3. ping
+4. 4
+5. pong
+6. ping
+7. 7
+8. 8
+9. ping
+10. pong
+11. 11
+12. ping
+13. 13
+14. 14
+15. pingpong
+16. 16
+17. 17
+18. ping
+19. 19
+20. pong
 
 ## example 3
 #if you put 9
