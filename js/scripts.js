@@ -1,7 +1,7 @@
 
 var pingpong = function(ping) {
   var numberArray = [];
-   if (ping > 0) { //positive numbers
+   if (ping > 0) {
       for (var index = 1; index <= ping; index++) {
         numberArray.push(index);
       }
